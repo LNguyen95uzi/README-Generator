@@ -46,7 +46,7 @@ ${data.questions}
 
 ## Badge(s)
 
-[![Badge](${data.badge})]
+![Badge](${data.badge})
 
 
 
