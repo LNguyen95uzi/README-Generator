@@ -1,4 +1,4 @@
-function generateMarkdown(data) {
+function generateMarkdown(data, git) {
   return `
 # ${data.title}
 
@@ -11,7 +11,6 @@ function generateMarkdown(data) {
 6. [Contributions](#contributions)
 7. [Test](#test)
 8. [Questions](#questions)
-9. [About Me](#aboutme)
 
 ## Description
 
@@ -45,7 +44,9 @@ ${data.test}
 
 ${data.questions}
 
-## Badges
+## Badge(s)
+
+[![Badge](${data.badge})]
 
 
 

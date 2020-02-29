@@ -52,6 +52,11 @@ function promptUser() {
         type: "input",
         name: "github",
         message: "What is your GitHub username?"
+    },
+    {
+        type: "input",
+        name: "badge",
+        message: "Place shield.io badge URL here to include!"
     }
 ])};
 

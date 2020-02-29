@@ -1,6 +1,5 @@
 
 # sharkFin
-undefined
 
 # Table of Contents:
 1. [Description](#description)
@@ -11,41 +10,42 @@ undefined
 6. [Contributions](#contributions)
 7. [Test](#test)
 8. [Questions](#questions)
-9. [About Me](#aboutme)
 
 ## Description
 
-finance
+sharks
 
 ## Contents
 
-money
+finance
 
 ## Installation
 
-moneys
+sharks
 
 ## Usage
 
-to make money
+finance
 
 ## License
 
-more money
+sharks
 
 ## Contributions
 
-donating money\
+finance
 
 ## Test
 
-money too
+sharks
 
 ## Questions
 
 undefined
 
-## About Me
+## Badge(s)
 
-undefined
+[![Badge](https://img.shields.io/badge/Finance-sharkFin-blue)]
+
+
 
