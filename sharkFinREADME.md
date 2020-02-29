@@ -45,7 +45,7 @@ undefined
 
 ## Badge(s)
 
-[![Badge](https://img.shields.io/badge/Finance-sharkFin-blue)]
+![Badge](https://img.shields.io/badge/Finance-sharkFin-blue)
 
 
 
